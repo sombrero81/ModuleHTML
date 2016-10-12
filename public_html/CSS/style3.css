@@ -1,0 +1,27 @@
+
+.titre{
+    font-size: 3em;
+    color: chartreuse;
+    font-family: cursive;
+    background-image: url('IMG/titre.jpg');
+    font-weight: normal;
+}
+
+.pied{
+    color: blue;
+    
+    height: 50px;
+}
+
+.titre,.contenu,.menu,.pied{ text-align: center;
+}
+
+.contenu{
+    border-color: gray;
+    border-style: solid;
+    border-width: 3px 0px 3px 0px;
+}
+
+a:link{
+    
+}

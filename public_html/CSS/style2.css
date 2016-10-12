@@ -1,0 +1,27 @@
+
+.titre{
+    font-size: 7em;
+    color: gold;
+    font-family: cursive;
+    background-image: url('IMG/titre.jpg');
+    font-weight: bold;
+}
+
+.pied{
+    color: gold;
+    
+    height: 40px;
+}
+
+.titre,.contenu,.menu,.pied{ text-align: center;
+}
+
+.contenu{
+    border-color: gray;
+    border-style: solid;
+    border-width: 3px 0px 3px 0px;
+}
+
+a:link{
+    
+}
